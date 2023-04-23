@@ -1,6 +1,6 @@
-### Go-crypto- howmuch
+### go-crypto-howmuch
 Made just for fun.
-Can fetch crypto given by flags suahc as `symbol` and `symbolbase`.
+Can fetch crypto given by flags such as `symbol` and `symbolbase`.
 
 Example:
 ```
